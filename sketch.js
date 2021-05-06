@@ -86,10 +86,10 @@ function setup() {
 	ButtonColor3 = color('#969696');
   
 	imgDefinition = loadImage("images/definitionorg.png");
-	imgMansion = loadImage('images/mansion.png'); 
+	imgMansion = loadImage('images/mansion.PNG'); 
 
 	imgTurningpoint = loadImage('images/turningpointusa.jfif'); 
-	imgWall = loadImage('images/wall.png'); 
+	imgWall = loadImage('images/wall.PNG'); 
 
 	imgStandardnews = loadImage('images/eveningstandard.jpg'); 
 	imgDolphin = loadImage('images/post1.png'); 
